@@ -1,4 +1,3 @@
-# KYC-Verification-for-Banks---Ethereum
  Decentralized KYC Verification Process for Banks using Ethereum
 
 - Origin of KYC
